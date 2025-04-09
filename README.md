@@ -1,1 +1,1 @@
-# ECHO-LUR-Denver
+# ECHO LUR Model for Denver, CO
