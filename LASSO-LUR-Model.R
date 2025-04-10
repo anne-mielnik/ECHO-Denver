@@ -4,8 +4,8 @@
 # Department of Environmental & Radiological Health Sciences
 # Colorado State University, Fort Collins, CO 80523
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# This repository provides a template of R script(s) used to model metal air pollution in 
-# fine particulate matter across Denver, CO using land use regression (LUR) as part of the 
+# This file provides a template of R script(s) used to model metal air pollution in 
+# fine particulate matter (PM2.5) across Denver, CO using land use regression (LUR) as part of the 
 # Environmental influences on Child Health Outcomes (ECHO) study.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Load packages.
